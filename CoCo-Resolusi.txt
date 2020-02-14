@@ -1,3 +1,4 @@
 COCO RESOLUSI
 --Membuat form diskusi
 --Kolaborasi dengan yg lebih expert
+--Membuat vlog
